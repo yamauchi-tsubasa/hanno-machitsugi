@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#e7eadf"/>
+<g transform="translate(100 130)" fill="none" stroke="#527052" stroke-width="22">
+<path d="M160 10h230l115 190-115 190H160L45 200z"/>
+<path d="M610 120h230l115 190-115 190H610L495 310z"/>
+</g>
+<g fill="#b88955" opacity=".6"><circle cx="405" cy="530" r="52"/><circle cx="560" cy="580" r="45"/><circle cx="725" cy="515" r="57"/></g>
+<text x="600" y="690" text-anchor="middle" font-family="sans-serif" font-size="54" fill="#315a3c" font-weight="700">2025 飯能まち継ぎプロジェクト</text>
+<text x="600" y="745" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#5b5144">景観オブジェ写真を追加する想定です</text>
+</svg>

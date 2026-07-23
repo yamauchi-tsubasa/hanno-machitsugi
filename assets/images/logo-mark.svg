@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">飯能まち継ぎプロジェクト 仮ロゴ</title>
+<desc id="desc">六角形、木、織り模様を組み合わせた仮ロゴ</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#315a3c"/>
+    <stop offset="1" stop-color="#788b54"/>
+  </linearGradient>
+</defs>
+<path fill="url(#g)" d="M64 5 114 34v60l-50 29L14 94V34z"/>
+<path fill="none" stroke="#f4ecd9" stroke-width="5" d="M64 19 101 40v44l-37 22-37-22V40z"/>
+<path fill="#f4ecd9" d="M60 39h8v42h-8z"/>
+<path fill="#f4ecd9" d="M64 31 43 58h42z"/>
+<path fill="none" stroke="#c9a66b" stroke-width="4" stroke-linecap="round" d="M38 88 50 76m10 15 12-12m7 8 10-10"/>
+</svg>
